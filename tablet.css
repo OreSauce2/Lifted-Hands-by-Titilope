@@ -1,0 +1,214 @@
+@media screen and (max-width:992px) {
+    #hero-section>div>div.grid-container>div.item-a>img {
+        width: 116.75px;
+        height: 175.13px;
+    }
+
+    #hero-section>div>div.grid-container>div.item-d>img {
+        width: 116.75px;
+        height: 175.13px;
+    }
+
+    #hero-section>div>div.grid-container>div.item-e>img {
+        width: 116.75px;
+        height: 175.13px;
+    }
+
+    #hero-section>div>div.grid-container>div.item-c>img {
+        width: 116.75px;
+        height: 175.13px;
+    }
+
+    #hero-section>div>div.grid-container>div.item-f>img {
+        width: 116.75px;
+        height: 175.13px;
+    }
+
+    #hero-section>div>div.grid-container>div.item-b>img {
+        width: 116.75px;
+        height: 87.56px;
+    }
+
+    #hero-section>div>div.grid-container>div.item-g>img {
+        width: 116.75px;
+        height: 87.56px;
+    }
+
+    #hero-section>div>div.grid-container {
+        min-width: 40%;
+    }
+
+    #hero-section>div>div.text {
+        width: 60%;
+        margin: 0;
+    }
+
+    #hero-section>div>div.text>h2 {
+        font-size: 32px;
+        width: 100%;
+    }
+
+    .header .text {
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px;
+    }
+
+    .menu button {
+        height: 51px;
+        width: 182.22244262695312px;
+    }
+
+    #hero-section .text button {
+        height: 51px;
+    }
+
+    #stats .stats-container {
+        height: 40vh;
+    }
+
+    #about-section>div>div.left>img.back {
+        width: 297.74px;
+        height: 228.71px;
+    }
+
+    #about-section>div>div.left>img.front {
+        width: 178.42px;
+        height: 218.19px;
+        left: 150px;
+        top: 30px;
+    }
+
+    #about-section>div>div.right>div.square>svg {
+        display: none;
+    }
+
+    #about-section>div>div.right>div:nth-child(3)>p {
+        font-size: 14px;
+        font-weight: 400;
+        width: 100%;
+    }
+
+    #about-section .left {
+        width: 40%;
+        margin: 0;
+    }
+
+    #about-section .right {
+        width: 50%;
+    }
+
+    #about-section>div>div.right>button {
+        height: 51px;
+        font-size: 14px;
+    }
+
+    #about-section>div>div.right>div.up>div>p {
+        font-size: 12px;
+    }
+
+    #about-section .line1 {
+        width: 302px;
+    }
+
+    #about-section>div>div.right>div.up>h4 {
+        font-size: 17px;
+    }
+
+    #about-section .right {
+        height: 100vh;
+    }
+
+    #campaign>div>div.left>div.back>img {
+        width: 397.74px;
+        height: 328.71px;
+    }
+
+    #campaign .container .left .front img {
+        position: relative;
+        bottom: 50px;
+        left: 11px;
+        width: 279.89px;
+        height: 319.87px;
+    }
+
+    #campaign>div>div.right>p {
+        font-size: 14px;
+        width: 80%;
+    }
+
+    #campaign>div>div.right>h3 {
+        font-size: 20px;
+        width: 90%;
+    }
+
+    #campaign h5 {
+        font-size: 14px;
+    }
+
+    #campaign>div>div.right>button {
+        height: 51px;
+        width: 182.22244262695312px;
+        padding: 16px 24px 16px 16px;
+        font-size: 14px;
+    }
+
+    #campaign>div>div.right>div.up>h4 {
+        font-size: 17px;
+    }
+
+    #campaign>div>div.right>div.up>div>p {
+        font-size: 12px;
+    }
+
+    #campaign .line1 {
+        border-top: 2px solid #CEFFE2;
+        width: 302px;
+        min-height: 2px;
+        margin-bottom: 20px;
+    }
+
+    #touch-section .grid div:nth-child(1) {
+        width: 175px;
+        height: 250px;
+    }
+
+    #touch-section .grid div svg {
+        width: 175px;
+        height: 260px;
+    }
+
+    #touch-section .grid div {
+        width: 175px;
+        height: 260px;
+    }
+
+    #touch-section>div>div.grid>div.grid1>svg {
+        height: 30.333335876464844px;
+        width: 30.333335876464844px;
+    }
+
+    #touch-section>div>div.grid>div.grid1>h2 {
+        font-size: 18px;
+    }
+
+    #touch-section>div>div.grid>div.grid1>p {
+        font-size: 12px;
+    }
+
+    #touch-section>div>div.up>h4 {
+        font-size: 20px;
+    }
+
+    #touch-section>div>div.up>div>p {
+        font-size: 17px;
+    }
+
+    #touch-section .line1 {
+        width: 409px;
+    }
+
+    #touch-section .up {
+        justify-content: center;
+    }
+}
